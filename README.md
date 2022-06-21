@@ -9,7 +9,7 @@ This repo contains details and examples of how we deploy software including infr
 * Remote state will be stored in Terraform Cloud.
 * Terragrunt will be used to keep our TF code DRY.
 
-## IOT Central - Azure 
-* We will deploy Azure’s IOT Central Applications with the azurerm_iotcentral_application TF resource.
+## Software Deployments
+* Software applications will be deployed on Kubernetes with a GitOps approach using frameworks such as ArgoCD. 
 
 
